@@ -43,7 +43,7 @@ We use centered 512*512 images (instead of "LIFULL HOME'S Data") in our model, b
 
 (II) annotations. 
 
-Here's how to use them:
+Here is a detailed guide on how to get the data:
 
 ### Step 1: Access the "LIFULL HOME'S Data"
 
