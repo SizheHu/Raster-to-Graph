@@ -9,8 +9,11 @@ Raster-to-Graph is a novel automatic recognition framework, which achieves struc
 We represent vectorized floorplans as structural graphs embedded with floorplan semantics, thus transforming the floorplan recognition task into a structural graph prediction problem. We design an autoregressive prediction framework using the neural network architecture of the visual attention Transformer, iteratively predicting the wall junctions and wall segments of floorplans in the order of graph traversal. Additionally, we propose a large-scale floorplan dataset containing over 10,000 real-world residential floorplans. Extensive experiments demonstrate the effectiveness of our framework, showing significant improvements on all metrics. Qualitative and quantitative evaluations indicate that our framework outperforms existing state-of-the-art methods. 
 
 We contribute the following: 
+
 • An automatic recognition framework to obtain high-quality vectorized floorplans from rasterized images through one neural network. 
+
 • A novel autoregressive model that iteratively predicts structures and semantics of floorplans in the order of graph traversal. 
+
 • A large-scale floorplan dataset containing more than 10,000 realistic residential floorplans with dense annotations both on structures and semantics. To the best of our knowledge, this is currently the largest dataset available for floorplan recognition. The dataset has much potential to inspire more research. 
 
 To learn more, please refer to our [paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.15007).
