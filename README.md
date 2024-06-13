@@ -58,7 +58,7 @@ Now you should have a folder named "photo-rent-madori-full-00" that contains app
 
 ### Step 2: Access the Annotations
 
-The annotations can be obtained from [Raster-to-Graph Dataset](https://docs.google.com/forms/d/e/1FAIpQLSexqNMjyvPMtPMPN7bSh_1u4Q27LZAT-S9lR_gpipNIMKV5lw/viewform). 
+The annotations can be obtained from [Raster-to-Graph Dataset]
 
 The download includes 3 folders:
 
@@ -130,5 +130,3 @@ doi={10.1109/ICCV.2017.241}
 }
 ```
 
-## Contact Me
-If you have any questions, please contact me (Sizhe Hu) at [2021111117@mail.hfut.edu.cn](mailto:2021111117@mail.hfut.edu.cn).
