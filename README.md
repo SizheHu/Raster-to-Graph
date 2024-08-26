@@ -1,7 +1,7 @@
 # Raster-to-Graph
 By Sizhe Hu, Wenming Wu, Ruolin Su, Wanni Hou, Liping Zheng and Benzhu Xu.
 
-This repository is an official implementation of the paper [Raster-to-Graph: Floorplan Recognition via Autoregressive Graph Prediction with an Attention Transformer](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.15007). (EG 2024)
+This repository is an official implementation of the paper [Raster-to-Graph: Floorplan Recognition via Autoregressive Graph Prediction with an Attention Transformer](https://wutomwu.github.io/publications/2024-Raster2Graph/paper.pdf). (EG 2024)
 
 ## Introduction
 Raster-to-Graph is a novel automatic recognition framework, which achieves structural and semantic recognition of floorplans, addresses the problem of obtaining high-quality vectorized floorplans from rasterized images. 
@@ -16,7 +16,7 @@ We contribute the following:
 
 • A large-scale floorplan dataset containing more than 10,000 realistic residential floorplans with dense annotations both on structures and semantics. To the best of our knowledge, this is currently the largest dataset available for floorplan recognition. The dataset has much potential to inspire more research. 
 
-To learn more, please refer to our [paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.15007).
+To learn more, please refer to our [paper](https://wutomwu.github.io/publications/2024-Raster2Graph/paper.pdf).
 
 ## Environments
 Our repo was developed and tested with Python 3.7, cuda 11.1, Windows 10.
