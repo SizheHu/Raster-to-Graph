@@ -92,6 +92,10 @@ If you would like train your model, please adjust the arguments in `args.py` and
 ```
 python train.py
 ```
+(Note, at the 80th epoch, you should terminate the training process, modify: 
+(1) the lr=2e-4 lr_backbone=2e-5 lr_linear_proj=2e-5 to (2e-5 2e-6 2e-6) manually in `args.py`, 
+(2) the 'resume' in `args.py` to 'path/to/the/79th_checkpoint'
+and rerun)
 
 ## Citation
 If you use our code or dataset, please cite Raster-to-Graph:
