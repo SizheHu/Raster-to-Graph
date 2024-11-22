@@ -97,6 +97,14 @@ python train.py
 (2) the 'resume' in `args.py` to 'path/to/the/79th_checkpoint'
 and rerun)
 
+To run the demo, you can prepare your own image folder (which can contain just 1 image), and then modify the `demo.py` file to change the input parameter of the `MyDataset_demo`. You can then run the following command:
+
+```
+python demo.py
+```
+
+The visualized output will be located in `output/your_path_name`. Note that the image data we used for training has been processed as described in the Data section earlier. If your image data is processed differently, you might need to retrain the model.
+
 ## Citation
 If you use our code or dataset, please cite Raster-to-Graph:
 
