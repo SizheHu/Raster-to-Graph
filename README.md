@@ -112,6 +112,7 @@ Bibtex:
 ```
 @article{https://doi.org/10.1111/cgf.15007,
 author = {Hu, Sizhe and Wu, Wenming and Su, Ruolin and Hou, Wanni and Zheng, Liping and Xu, Benzhu},
+year = {2024},
 title = {Raster-to-Graph: Floorplan Recognition via Autoregressive Graph Prediction with an Attention Transformer},
 journal = {Computer Graphics Forum},
 volume = {43},
