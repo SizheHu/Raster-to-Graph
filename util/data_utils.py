@@ -64,12 +64,12 @@ def get_given_layers_random_region(targets, graphs):
         sampled_edges = []
 
         # nodes number of subgraph
-        # sampled_amount = random.randint(0, len(sampled_points) + 2)
-        # if sampled_amount in [len(sampled_points) + 1]:
-        #     sampled_amount = 0
-        # if sampled_amount in [len(sampled_points) + 2]:
-        #     sampled_amount = len(sampled_points)
-        sampled_amount = random.randint(0, len(sampled_points))
+        sampled_amount = random.randint(0, len(sampled_points) + 2)
+        if sampled_amount in [len(sampled_points) + 1]:
+            sampled_amount = 0
+        if sampled_amount in [len(sampled_points) + 2]:
+            sampled_amount = len(sampled_points)
+        # sampled_amount = random.randint(0, len(sampled_points))
 
 
         # Note that when sampled_prob = 1, the number of sampled nodes must be in 'layer_indices' or be the total number of points to ensure that the entire layers is sampled.
