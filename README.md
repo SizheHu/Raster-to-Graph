@@ -70,7 +70,7 @@ You simply need to place these 3 folders under the `data` folder.
 
 ### Step 3: Process the "LIFULL HOME'S Data" to Centered 512x512 Images
 
-**Note: You need to use pillow=8.0.0 to run this script! Although `requirements.txt` specifies pillow=9.1.1, `image_process.py` was developed and tested with pillow=8.0.0. If you use pillow=9.1.1, the resulting processed images may have slight differences, but it doesn’t seem to make a significant impact on the final testing results.**
+**Note: You need to use pillow=8.0.0 to run this script. Although `requirements.txt` specifies pillow=9.1.1, `image_process.py` was developed and tested with pillow=8.0.0. If you use pillow=9.1.1, the resulting processed images may have slight differences, but it shouldn't make a significant impact on the final testing results.**
 
 You should have gotten the "LIFULL HOME'S Data" in Step 1. 
 
