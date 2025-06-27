@@ -183,6 +183,7 @@ def get_cycle_basis_and_semantic_deprecated(best_result):
 
 
 def get_cycle_basis_and_semantic(best_result):
+    # The "best" in the name has nothing to do with our actual practice. It is just a legacy of our early attempts at Monte Carlo thinking.
     output_points, output_edges = get_results_float_with_semantic(best_result)
     output_points = copy.deepcopy(output_points)
     output_edges = copy.deepcopy(output_edges)
