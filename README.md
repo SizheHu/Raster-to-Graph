@@ -18,6 +18,11 @@ We contribute the following:
 
 To learn more, please refer to our [paper](https://wutomwu.github.io/publications/2024-Raster2Graph/paper.pdf).
 
+# Test results on different machines & environments:
+![image](https://github.com/user-attachments/assets/6a23fd3c-e902-4936-a3c4-7da6636ddfe1)
+
+![image](https://github.com/user-attachments/assets/470ed807-4db5-4a83-8004-cca156c619bd)
+
 ## Environments
 Our repo was developed and tested with Python 3.7, cuda 11.1, Windows 10.
 
