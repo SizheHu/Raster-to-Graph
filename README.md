@@ -23,6 +23,8 @@ To learn more, please refer to our [paper](https://wutomwu.github.io/publication
 
 ![image](https://github.com/user-attachments/assets/470ed807-4db5-4a83-8004-cca156c619bd)
 
+The difference of about 0.1 in the Edge F-1 is because the 96.1 in the paper and the 96.2 here use different precision calculations (preserving 1 decimal place for Prec and Recall before calculation, and directly using the high-precision data inside the program)
+
 ## Environments
 Our repo was developed and tested with Python 3.7, cuda 11.1, Windows 10.
 
