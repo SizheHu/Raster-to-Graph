@@ -34,6 +34,15 @@ To install the necessary dependencies:
 pip install -r requirements.txt
 ```
 
+or this:
+```bash
+conda create -n R2G python=3.7.13
+
+pip install torch==1.9.1+cu111 torchvision==0.10.1+cu111 -f https://download.pytorch.org/whl/torch_stable.html
+
+pip install cython==0.29.30 imageio==2.22.0 libpng==1.6.37 matplotlib==3.5.2 networkx==2.6.3 numpy==1.21.6 opencv-python==4.5.3.56 pillow==9.1.1 scikit-image==0.19.2 scipy==1.7.3 shapely==2.0.1 tqdm==4.64.0
+```
+
 To install the necessary deformable attention module provided by [Deformable-DETR](https://github.com/fundamentalvision/Deformable-DETR):
 
 ```bash
