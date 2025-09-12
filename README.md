@@ -54,7 +54,7 @@ cd ../..
 (If you would like to know the version information of all packages, please refer to the `requirements_full.txt`.)
 
 ## Data
-# Note: Applications for relevant data will be processed uniformly every weekend evening.
+# Note: Applications for relevant data will be processed uniformly every Sunday evening.
 
 Our dataset includes:
 
