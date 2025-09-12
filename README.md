@@ -54,6 +54,8 @@ cd ../..
 (If you would like to know the version information of all packages, please refer to the `requirements_full.txt`.)
 
 ## Data
+# Note: Applications for relevant data will be processed uniformly every weekend evening.
+
 Our dataset includes:
 
 (I) Centered 512*512 images obtained by processing "LIFULL HOME'S High Resolution Floor Plan Image Data" ("LIFULL HOME'S Data" for short). 
