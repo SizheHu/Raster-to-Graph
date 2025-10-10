@@ -54,7 +54,10 @@ cd ../..
 (If you would like to know the version information of all packages, please refer to the `requirements_full.txt`.)
 
 ## Data
-### Note: Applications for relevant data will be processed uniformly every Sunday evening.
+### Note: Applications for relevant data will be processed uniformly every Sunday evening. 
+### 
+### If you haven't received it by Monday morning (UTC+8), please check your spam folder. 
+### If you really haven't received it, please contact me: 2024010072@mail.hfut.edu.cn. I will send you a new one. 
 
 Our dataset includes:
 
