@@ -56,7 +56,7 @@ cd ../..
 ## Data
 ### Note: Applications for relevant data will be processed uniformly every Sunday evening. 
 ### 
-### If you haven't received it by Monday morning (UTC+8), please check your spam folder. 
+### Some people reported that they were unable to receive the email. If you haven't received it by Monday morning (UTC+8), please check your spam folder. 
 ### If you really haven't received it, please contact me: 2024010072@mail.hfut.edu.cn. I will send you a new one. 
 
 Our dataset includes:
