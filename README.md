@@ -81,7 +81,7 @@ Now you should have a folder named "photo-rent-madori-full-00" that contains app
 The annotations can be obtained from:
 1. Google Form [Raster-to-Graph Dataset](https://docs.google.com/forms/d/e/1FAIpQLSexqNMjyvPMtPMPN7bSh_1u4Q27LZAT-S9lR_gpipNIMKV5lw/viewform). 
 2. for researchers who cannot access Google, please submit your application via Wenjuanxing: [Raster-to-Graph Dataset](https://v.wjx.cn/vm/tywdMK0.aspx).
-3. 
+
 **You only need to choose one of [1. Google Form (for all researchers)] and [2. Wenjuanxing (for who cannot access Google)].**
 
 The download includes 3 folders:
