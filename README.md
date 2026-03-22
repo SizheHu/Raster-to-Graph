@@ -56,7 +56,7 @@ cd ../..
 ## Data
 ### Note: Applications for relevant data will be processed uniformly every Sunday evening. 
 ### 
-### Some researchers reported that they were unable to receive the email. If you haven't received it by Monday morning (UTC+8), please check your spam folder. If you really haven't received it, please contact me: 2024010072@mail.hfut.edu.cn. I will send you a new one. 
+### Some researchers reported that they were unable to receive the email. If you haven't received it by Monday morning (UTC+8), please check your spam folder. If you really haven't received it, please contact me: 2024010072@mail.hfut.edu.cn. 
 
 Our dataset includes:
 
@@ -79,10 +79,7 @@ Now you should have a folder named "photo-rent-madori-full-00" that contains app
 ### Step 2: Access the Annotations
 
 The annotations can be obtained from:
-1. Google Form [Raster-to-Graph Dataset](https://docs.google.com/forms/d/e/1FAIpQLSexqNMjyvPMtPMPN7bSh_1u4Q27LZAT-S9lR_gpipNIMKV5lw/viewform). 
-2. for researchers who cannot access Google, please submit your application via Wenjuanxing: [Raster-to-Graph Dataset](https://v.wjx.cn/vm/tywdMK0.aspx).
-
-**You only need to choose one of [1. Google Form (for all researchers)] and [2. Wenjuanxing (for who cannot access Google)].**
+Google Form [Raster-to-Graph Dataset](https://docs.google.com/forms/d/e/1FAIpQLSexqNMjyvPMtPMPN7bSh_1u4Q27LZAT-S9lR_gpipNIMKV5lw/viewform). 
 
 The download includes 3 folders:
 
